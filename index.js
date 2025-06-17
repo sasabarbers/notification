@@ -17,7 +17,7 @@ const TelegramBot = require("node-telegram-bot-api");
   const { getDatabase, ref, onChildAdded } = await import("firebase/database");
 
   const token = "7668602853:AAE2tDFRNRviI8vVGDoMBKXCT6FoQeUssGo";
-  const chatId = "6419243555";
+  const chatId = "1437878168";
 
   const firebaseConfig = {
     apiKey: "AIzaSyCLS_kMDsfaolcRYXWKEIKhcMYqiNN6XcI",
